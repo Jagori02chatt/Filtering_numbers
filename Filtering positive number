@@ -1,0 +1,4 @@
+list1 = [23, -9,87,54,-78,-45,4,-98]
+for x in range1:
+    if x >=0:
+        print( x,end=" ") 
